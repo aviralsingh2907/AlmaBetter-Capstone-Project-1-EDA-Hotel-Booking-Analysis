@@ -23,26 +23,46 @@ In summary, the Hotel Booking EDA Capstone project provides a thorough and detai
 
 ## Following approaches were taken:
 • Null values in the dataset were inspected and handled. There were four variables with null values.
+
 • Country based, i.e. Portuguese and Non-Portuguese customer analysis was done for both hotels.
+
 • Market segment & payment mode (deposit type) wise analysis was done for both hotels.
+
 • Analysis of duration of stay along with average daily rate was done for both hotels.
+
 • Reserved & allotted room type analysis along with average daily rate was done for both hotels.
+
 • Analysis of demand along with average daily rate over time was done for both hotels.
+
 • Analysis of special requests over time was done for both hotels.
+
 • Analysis of cancelled bookings was done for both hotels taking room type, market segment, payment mode and lead time into consideration.
+
 • Correlation heat map analysis was done for some other variables.
 
 ## Conclusion
 • Majority of the customers are Portuguese nationals (28% overall). 'City' & 'Resort' hotels are located in Portugal. 'City Hotel' is the busier than 'Resort Hotel'.
+
 • 'Resort Hotel' has better retention rate among both Portuguese & Non-Portuguese nationals, but it should consider marketing to attract more Non-Portuguese customers.
+
 • 'Online TA' market-segment brought most of the business to the hotels, followed by 'Offline TA/TO'.
+
 • Most customers prefer paying at the check-out time.
+
 • In 'City Hotel', most of the customers stay 2-3 nights. In 'Resort Hotel', customers stay 3-5 nights, indicating customers come there for a longer trip.
+
 • The median 'ADR' for 'City Hotel' is around 100 irrespective of duration of stay, whereas for 'Resort' it increases till 6 nights of stay, but stays below 100. So for longer duration 'Resort' hotel is economical.
+
 • The most desired room type is 'A', followed by 'D'. Majority of those who didn’t get room type 'A' were allotted room type 'D'.
+
 • The peak season for 'City Hotel' is from March to October and the trend of 'demand' & 'adr' is similar. The peak season for 'Resort Hotel' is from February to May & October, and the trend of 'demand' & 'adr' is opposite in nature.
+
 • 'Not getting the desired room type' doesn’t have much effect on booking cancellations.
+
 • Hotels need to focus more on cancellations via ‘Online TA’ market-segment, as that is where majority of the 'No Deposit' cancellations are & the 'median lead time' for 'cancelled' bookings is considerably higher than 'confirmed' bookings.
+
 • Stay during weeknights is higher than stay during weekend nights.
+
 • The majority of the customers are adults.
+
 • Families with babies travel less than families with grown children.
