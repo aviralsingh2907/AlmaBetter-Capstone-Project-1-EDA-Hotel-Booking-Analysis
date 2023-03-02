@@ -1,4 +1,4 @@
-# AlmaBetter Capstone-Project-1: EDA Hotel-Booking Analysis
+# AlmaBetter Capstone Project 1: EDA Hotel-Booking Analysis
 
 Have you wondered about the best time of year to book a hotel room? Or the optimal length of stay in order to get the best daily rate? Is there a way to predict whether or not a hotel was likely to receive a disproportionately high number of special requests?
 Those questions can be explored with the help of this hotel booking dataset.
