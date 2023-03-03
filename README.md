@@ -7,7 +7,7 @@ This data set contains booking information for a city hotel and a resort hotel, 
 Explore and analyse the data to discover important factors that govern or affect the bookings.
 
 ## Project Summary:
-Hotel industry is a fast paced industry. Thus, the hotel operators need to adapt to this fast paced industry. So, the objective of this project is to analyze ‘Hotel Booking Dataset’, so that we can understand it and gain insights from the factors that govern the bookings in the hotel industry.
+Hotel industry is a fast paced industry. Thus, the hotel operators need to adapt to this fast paced industry in order to operate efficiently. So, the objective of this project is to analyze ‘Hotel Booking Dataset’, so that we can understand it and gain insights from the factors that govern the bookings in the hotel industry.
 
 The project begins with an introduction to the dataset used. The dataset contains information on hotel bookings, including customer demographics, booking information, and cancellation status. The project summary provides an overview of the dataset and its characteristics, such as the number of records, columns, and missing values.
 
