@@ -7,13 +7,11 @@ This data set contains booking information for a city hotel and a resort hotel, 
 Explore and analyse the data to discover important factors that govern or affect the bookings.
 
 ## Project Summary:
-Hotel industry is a fast paced industry. Thus, the hotel operators need to adapt to this fast paced industry in order to operate efficiently. So, the objective of this project is to analyze ‘Hotel Booking Dataset’, so that we can understand it and gain insights from the factors that govern the bookings in the hotel industry.
+Hotel industry is a fast paced industry. Thus, the hotel operators need to adapt to this fast paced industry in order to operate efficiently. So, the objective of this project is to analyze ‘Hotel Booking Dataset’, so that we can observe, understand and gain insights from the factors that govern the bookings in the hotel industry.
 
 The project begins with an introduction to the dataset used. The dataset contains information on hotel bookings, including customer demographics, booking information, and cancellation status. The project summary provides an overview of the dataset and its characteristics, such as the number of records, columns, and missing values.
 
-The project then moves on to exploratory data analysis (EDA), which involves visualizing and summarizing the data to gain insights into the patterns and trends. The EDA section is divided into several subsections, each of which focuses on a specific aspect of the data. For example, one subsection explores the distribution of booking cancellations, while another examines the seasonality of bookings.
-
-The project highlights several interesting findings, such as the high cancellation rate for bookings made without a deposit, and the seasonal variations in booking patterns. The project also notes the limitations of the dataset, such as the lack of information on external factors that may influence booking behavior.
+The project then moves on to exploratory data analysis (EDA), which involves visualizing and summarizing the data to gain insights into the patterns and trends. The EDA section is divided into several subsections, each of which focuses on a specific aspect of the data. For example, one subsection explores the distribution of booking cancellations, while another examines the seasonality of bookings. The project highlights several interesting findings, such as the high cancellation rate for bookings made without a deposit, and the seasonal variations in booking patterns.
 
 In summary, the Hotel Booking EDA Capstone project provides a thorough and detailed analysis of hotel booking data using Python and popular data analysis libraries. The project demonstrates the power of data visualization and preprocessing in gaining insights into complex datasets and highlights the importance of careful model selection and evaluation. The project is a valuable resource for anyone interested in data analysis or the hotel industry, and provides a wealth of insights for future data analysts.
 
