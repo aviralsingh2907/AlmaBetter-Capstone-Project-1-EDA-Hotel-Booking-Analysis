@@ -1,4 +1,4 @@
-# AlmaBetter Capstone Project 1: EDA Hotel-Booking Analysis
+# AlmaBetter Capstone Project 1: EDA - Hotel Booking Analysis
 
 Have you wondered about the best time of year to book a hotel room? Or the optimal length of stay in order to get the best daily rate? Is there a way to predict whether or not a hotel was likely to receive a disproportionately high number of special requests?
 Those questions can be explored with the help of this hotel booking dataset.
@@ -15,9 +15,9 @@ The project then moves on to exploratory data analysis (EDA), which involves vis
 
 The project highlights several interesting findings, such as the high cancellation rate for bookings made without a deposit, and the seasonal variations in booking patterns. The project also notes the limitations of the dataset, such as the lack of information on external factors that may influence booking behavior.
 
-In summary, the Hotel Booking EDA Capstone project provides a thorough and detailed analysis of hotel booking data using Python and popular data analysis libraries. The project demonstrates the power of data visualization and preprocessing in gaining insights into complex datasets and highlights the importance of careful model selection and evaluation. The project is a valuable resource for anyone interested in data analysis or the hotel industry, and provides a wealth of insights and practical tips for future data analysts.
+In summary, the Hotel Booking EDA Capstone project provides a thorough and detailed analysis of hotel booking data using Python and popular data analysis libraries. The project demonstrates the power of data visualization and preprocessing in gaining insights into complex datasets and highlights the importance of careful model selection and evaluation. The project is a valuable resource for anyone interested in data analysis or the hotel industry, and provides a wealth of insights for future data analysts.
 
-## Following approaches were taken:
+### Following approaches were taken:
 • Null values in the dataset were inspected and handled. There were four variables with null values.
 
 • Country based, i.e. Portuguese and Non-Portuguese customer analysis was done for both hotels.
